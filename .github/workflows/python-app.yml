@@ -28,3 +28,4 @@ jobs:
       with:
         name: zara_stock_checker
         path: dist/main.exe
+s
